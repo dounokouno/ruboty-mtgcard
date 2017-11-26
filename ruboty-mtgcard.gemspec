@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ['TAGAWA Takao']
   spec.email         = ['dounokouno@gmail.com']
 
-  spec.summary       = 'A Ruboty plugin that returns MTG card illustration url.'
+  spec.summary       = 'A Ruboty plugin that returns MTG card illustration URL.'
   spec.homepage      = 'https://github.com/dounokouno/ruboty-mtgcard'
   spec.license       = 'MIT'
 
