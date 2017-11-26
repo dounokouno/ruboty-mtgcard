@@ -35,6 +35,10 @@ MTGCARD_LANGUAGE               - MTG card language (default: english)
 MTGCARD_MESSAGE_WHEN_NOT_FOUND - Message when not found (default: No cards found.)
 ```
 
+## Special thanks
+
+- [MTG Developers](https://magicthegathering.io)
+
 ## Contributing
 
 Bug reports and pull requests are welcome on GitHub at https://github.com/dounokouno/ruboty-mtgcard.
