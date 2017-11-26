@@ -18,7 +18,7 @@ module Ruboty
       on(
         /(mtgcard) (?<keyword>.+)/,
         name: 'mtgcard',
-        description: 'Returns MTG card illustration URL that matches the keyword'
+        description: 'Returns the MTG card illustration URL that matches the keyword'
       )
 
       def mtgcard(message)

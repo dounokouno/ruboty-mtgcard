@@ -1,6 +1,6 @@
 # Ruboty::Mtgcard
 
-A Ruboty plugin that returns MTG card illustration URL.
+A Ruboty plugin that returns the MTG card illustration URL.
 
 ## Installation
 
